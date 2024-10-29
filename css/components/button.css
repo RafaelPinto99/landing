@@ -1,0 +1,14 @@
+.btn-primary{
+  display: inline-block;
+  background-color: #143B5A;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  border: 2px solid;
+}
+
+.footer a {
+  font-size: 30px;
+  color: white;
+}
